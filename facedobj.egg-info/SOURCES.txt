@@ -1,8 +1,0 @@
-README.md
-setup.py
-facedobj/__init__.py
-facedobj/facedobj.py
-facedobj.egg-info/PKG-INFO
-facedobj.egg-info/SOURCES.txt
-facedobj.egg-info/dependency_links.txt
-facedobj.egg-info/top_level.txt
